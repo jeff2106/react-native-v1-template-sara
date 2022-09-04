@@ -22,7 +22,7 @@ Suivez les instructions pour votre donnée `development OS` et `target OS`.
 Pour créer un nouveau projet à l'aide du template, exécutez simplement :
 
 ```
-npx react-native init MyApp --template https://github.com/jeff2106/react-native-sara-new-app
+npx react-native init MyApp --template https://github.com/jeff2106/react-native-v1-template-sara.git
 ```
 **🚨Important**
 
